@@ -45,7 +45,7 @@ The project code is organized into several main sections:
 - matplotlib
 - seaborn
 - statsmodels
-- scikit-learn (for Linear Regression, if used)
+- scikit-learn
 
 ## Usage
 
