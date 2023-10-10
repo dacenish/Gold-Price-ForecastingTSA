@@ -1,3 +1,5 @@
+![download](https://github.com/dacenish/Gold-Price-ForecastingTSA/assets/82972335/0cba6eeb-f66a-4c12-87e5-36cdeccf37ef)
+
 # Gold Price Forecasting using Exponential Smoothing
 
 ## Project Overview
